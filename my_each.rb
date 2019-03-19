@@ -1,6 +1,8 @@
 def my_each(array)
   # put argument(s) here
   if block_given?
+    puts "hello"
+  end
   while 
   # code here
 end
